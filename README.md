@@ -43,8 +43,7 @@ Before running the scripts, make sure to create a `.env` file in the root direct
         AGENT=your_custom_user_agent
 ````
  * These values are required to access the Reddit API. You can obtain them by registering an application at https://www.reddit.com/prefs/apps.
- * If you have any questions about [Reddit account](tutorials/reddit_account.md) or refer to the `env.example` file for guidance.
-
+ * If you have any questions about creating Reddit credentials, see our manual: [Reddit account](tutorials/reddit_account.md)
 
 ## 🧩 Requirements
 
