@@ -133,7 +133,9 @@ Ribas, J., Carneiro, J., Canuto, T., Azevedo, J., Januario, J., Uchôa, A., & Al
   title        = {Pain in a Safe Space: Mapping Emotions and
                    Discourse in the Womenintech Subreddit
                   },
-  year         = 2025,
+  year         = 2025
+
+}
  
 ```
 
