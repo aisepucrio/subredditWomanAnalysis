@@ -9,7 +9,7 @@ Para iniciar abra um notebook no Google colab em branco.
 ---
 ## Extrair do Reddit
 
-1. Vamos carregar o script de extração dos dados do Reddit, para isso va no menu "arquivo/fazer upload de arquivo"
+1. Vamos carregar o script de extração dos dados do Reddit, para isso va no menu "arquivo" opção fazer "Fazer upload de notebook".
    <img src="figs/colab_1.png"
          alt="colab" widh=300px/>
 
@@ -53,14 +53,17 @@ Para iniciar abra um notebook no Google colab em branco.
 
 ---
 
-##  
+## anonimização dos dados
 
-<img src="figs/colab_2.png"
+1. Neste momento precisamos fazer o upload do arquivo responsavel pela organização e anonimização dos dados. Vá na barra de menus "arquivos" selecione a opção "Fazer upload de notebook".
+   <img src="figs/colab_2.png"
      alt="colab" widh=300px/>
 
-<img src="figs/colab_2.1.png"
-     alt="colab" widh=300px/>
+2. abrirá uma janela com algumas opções de carregamento de notebook, por padrão a opção "Upload" vem selecionada, clique no botão "procurar".
+   <img src="figs/colab_2.1.png"
+         alt="colab" widh=300px/>
 
+3.
 <img src="figs/colab_2.2.png"
      alt="colab" widh=300px/>
 
@@ -144,3 +147,4 @@ Para iniciar abra um notebook no Google colab em branco.
 
   <img src="figs/colab_4.7.png"
      alt="colab" widh=300px/>
+
