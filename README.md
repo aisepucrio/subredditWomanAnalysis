@@ -75,7 +75,7 @@ You can find the appropriate version for your system at: [https://pytorch.org/ge
    - `src/4_analysis_reddit.ipynb`: Performs analysis and visualization based on the processed data.
 
 ## ⚙️ How to Reproduce (Google Colab)
-Follow the instructions in this manual [manual](/tutorials/colab.md). 
+Follow the instructions in this [manual](/tutorials/colab.md). 
 
 ##  💾 Dataset
 The dataset includes Reddit posts from the *r/womenintech* subreddit collected over a one-year period. Personal information has been removed or anonymized where appropriate. Data files are located in the dataset folder.
