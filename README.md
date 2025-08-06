@@ -23,6 +23,8 @@ This study analyzes online discourse in the *r/womenintech* subreddit to assess 
 
 ├── table Emotion by Sentiment/ # Example of posts categorized by emotion and sentiment.
 
+├── tutorial/ # Tutorials for creating a Reddit developer account and running your project on Google Colab.
+
 ├── requirements.txt # List of libraries and specific versions required to reproduce the project environment
 
 ├── env.example # Example of env file
@@ -53,7 +55,7 @@ You can find the appropriate version for your system at: [https://pytorch.org/ge
 💡 Note: If you don’t have a local CUDA-compatible setup, you can run this code directly in [Google Colab](https://colab.research.google.com/), which comes with **PyTorch** and **GPU support** pre-installed.
 
 
-## ⚙️ How to Reproduce
+## ⚙️ How to Reproduce (local)
 
 1. **Install the dependencies:**
 
@@ -72,6 +74,9 @@ You can find the appropriate version for your system at: [https://pytorch.org/ge
    - `src/2_anonymization_reddit.ipynb`: Anonymizes usernames and sensitive information.
    - `src/3_label_reddit.ipynb`: Applies labeling or classification to the dataset.
    - `src/4_analysis_reddit.ipynb`: Performs analysis and visualization based on the processed data.
+
+## ⚙️ How to Reproduce (Google Colab)
+Follow the instructions in this manual [manual](/tutorials/colab.md). 
 
 ##  💾 Dataset
 The dataset includes Reddit posts from the *r/womenintech* subreddit collected over a one-year period. Personal information has been removed or anonymized where appropriate. Data files are located in the dataset folder.
