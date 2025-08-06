@@ -1,7 +1,7 @@
 # Example Execution on Colab
 
 To run the project on Google Colab, you need to have your `.env` file properly configured with your credentials  
-([see example](tutorials/reddit_account.md)).
+([see example](reddit_account.md)).
 
 There are four notebooks to execute, and they must be run one at a time in the order indicated by their names.  
 To start, open a blank notebook in Google Colab.
@@ -167,3 +167,4 @@ If you use another dataset, only RQ1 and RQ2 will run properly — RQ3 analyses 
 4.8. Click **Run all** to execute the script. It will generate multiple `.png` figures in the "Files" tab.
 
    <img src="figs/colab_4.7.png" alt="colab" width="300px"/>
+
