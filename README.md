@@ -4,7 +4,7 @@ This repository contains the code, data, and materials used in our study on patt
 
 [![DOI](https://zenodo.org/badge/978184076.svg)](https://doi.org/10.5281/zenodo.15920932)
 
-Access full paper [here]([subredditWomanAnalysis.pdf](https://www.researchgate.net/publication/395004979_Pain_in_a_Safe_Space_Mapping_Emotions_and_Discourse_in_the_Womenintech_Subreddit#fullTextFileContent))
+Access full paper [here](https://www.researchgate.net/publication/395004979_Pain_in_a_Safe_Space_Mapping_Emotions_and_Discourse_in_the_Womenintech_Subreddit#fullTextFileContent)
 
 ---
 
