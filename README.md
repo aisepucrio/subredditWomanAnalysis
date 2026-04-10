@@ -2,7 +2,7 @@
 
 This repository contains the code, data, and materials used in our study on patterns of toxicity and emotional expression in the *r/womenintech* subreddit, based on a comprehensive analysis of user-generated posts.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17054583.svg)](https://doi.org/10.5281/zenodo.17054583)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19496886.svg)](https://doi.org/10.5281/zenodo.19496886)
 
 
 Access full paper [here](https://www.researchgate.net/publication/395004979_Pain_in_a_Safe_Space_Mapping_Emotions_and_Discourse_in_the_Womenintech_Subreddit#fullTextFileContent)
