@@ -16,7 +16,7 @@ This study analyzes online discourse in the *r/womenintech* subreddit to assess 
 ---
 
 ## 🗂️ Repository Structure
-├── dataset/ # Raw and preprocessed data used in the study
+├── dataset/ # Collection of posts used in the study, containing post id, URL, score, number of comments, and data extraction timestamp
 
 ├── graphics/ # Figures and visualizations generated for the article
 
